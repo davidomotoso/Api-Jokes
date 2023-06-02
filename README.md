@@ -1,6 +1,6 @@
 # Jokes Web Application
 
-This is a simple web application that fetches random "Daddy jokes" from an API and displays them when a button is clicked.
+This is a simple web application that fetches random "Jokes" from an API and displays them when a button is clicked.
 
 ### Technologies Used
 - HTML
