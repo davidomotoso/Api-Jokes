@@ -26,7 +26,7 @@ https://github.com/davidomotoso/Api-Jokes.git
 
 3. Click the "Random Jokes" button.
 
-4. he button text will change to "Please wait a sec..." indicating that the application is fetching a joke from the API.
+4. The button text will change to "Please wait a sec..." indicating that the application is fetching a joke from the API.
 
 5. Once the joke is fetched, it will be displayed on the screen in the designated output area.
 
